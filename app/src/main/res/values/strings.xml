@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="icone">icon</string>
+
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>View All Routes</item>
+        <item>About the application</item>
+        <item>About us</item>
+        <item>Cadastrar Rota (BETA)</item>
+        <item>Terms of Use</item>
+        <item>Help Center</item>
+        <item>Feedback</item>
+        <item>Exit</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/homewhite</item>
+        <item>@drawable/routeswhite</item>
+        <item>@drawable/aboutsystemwhite</item>
+        <item>@drawable/aboutuswhite</item>
+        <item>@drawable/cad_route</item>
+        <item>@drawable/termsandpolicywhite</item>
+        <item>@drawable/helpwhite</item>
+        <item>@drawable/feedbackwhite</item>
+        <item>@drawable/closewhite</item>
+    </array>
+</resources>
